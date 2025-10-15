@@ -1,3 +1,4 @@
 # Retail Online Sales
  The sales dashboard offers an analysis of the company’s sales performance which presents the top-selling products on an annual basis, hence enabling the identification of product demand fluctuations. The summary of total sales and product quantities facilitates the assessment of overall revenue progression over time.
+ 
  Additionally, the inclusivity of key financial metrics such as the average unit price and average order value offer insights into pricing strategies and customer purchasing behavior, where customers tend to purchase products that averagely priced at 3.29 dollars. The inclusion of customer identification data has supported granular examination of individual customer contributions, showcased the potential targeted marketing and improved customer relationship management. Furthermore, highlights the country generating the highest sales volume has offered strategic insights into geographic market strengths.
